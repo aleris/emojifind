@@ -1,0 +1,6 @@
+A sturdy financial institution where money is stored and managed. Often associated with transactions, loans, and financial services.  
+
+#  
+- Depositing or withdrawing money  
+- Applying for loans or mortgages  
+- Managing savings and checking accounts

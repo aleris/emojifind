@@ -1,0 +1,6 @@
+A long, connected vehicle that runs on tracks, often part of a larger train or tram system. Typically used for public transportation in urban or intercity settings.  
+
+#  
+- Commuting within cities via tram or light rail systems  
+- Traveling between cities as part of a passenger train  
+- Transporting goods in freight trains

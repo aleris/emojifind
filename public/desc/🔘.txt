@@ -1,0 +1,6 @@
+A small circular element, often used in digital interfaces to indicate a selectable option. Typically appears in groups where only one choice can be active at a time.  
+
+#  
+- Selecting a single option from a list in forms or surveys  
+- Toggling between settings or preferences in applications  
+- Marking the correct answer in quizzes or interactive content

@@ -1,0 +1,6 @@
+A storage service for temporarily holding bags or suitcases, often found in transportation hubs like airports or train stations. Provides a secure place to leave belongings while traveling or exploring.  
+
+#  
+- Storing luggage during a layover or short trip  
+- Keeping bags safe while sightseeing in a new city  
+- Holding items when hotel check-in or check-out times don't align with travel plans

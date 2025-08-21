@@ -1,0 +1,7 @@
+A symbol representing an automated teller machine, often found outside banks or in public spaces for convenient access to cash. Indicates a self-service banking terminal for quick financial transactions.  
+
+#  
+- Withdrawing cash from a bank account  
+- Depositing money or checks  
+- Checking account balances  
+- Transferring funds between accounts

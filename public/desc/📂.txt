@@ -1,0 +1,7 @@
+A classic folder with tabs, slightly open to reveal contents inside. Represents organization, storage, and access to documents or files.  
+
+#  
+- Storing and organizing digital files  
+- Representing directories in file systems  
+- Symbolizing document management  
+- Indicating shared or accessible resources

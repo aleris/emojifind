@@ -1,0 +1,6 @@
+A symbol indicating backward movement or rewinding, often representing a return to a previous state or step.  
+
+#  
+- Skipping to the previous track or scene in media players  
+- Navigating back in menus or web browsers  
+- Undoing or reversing an action in applications

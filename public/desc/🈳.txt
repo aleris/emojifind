@@ -1,0 +1,6 @@
+A square button featuring the Japanese ideograph for "vacancy," often indicating availability or emptiness. It is commonly seen in public spaces or digital interfaces to denote open slots or unoccupied status.  
+
+#  
+- Signaling available rooms or seats in hotels or transportation  
+- Marking empty parking spaces or vacant lots  
+- Indicating open appointments or time slots in booking systems

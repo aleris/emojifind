@@ -1,0 +1,7 @@
+A square button featuring the Japanese ideograph for "full" or "no vacancy," often displayed in red. It signifies that a space, service, or facility has reached maximum capacity and cannot accommodate more.  
+
+#  
+- Indicating that a parking lot, hotel, or event venue is fully occupied  
+- Signaling that a restaurant or store is at capacity and not accepting more customers  
+- Marking a completed or unavailable status in digital or physical systems  
+- Denoting a full storage or memory limit in technical contexts

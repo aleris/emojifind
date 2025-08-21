@@ -1,0 +1,6 @@
+A classic clock face showing the time as exactly noon or midnight. The hour and minute hands are both pointed straight up, indicating the top of the hour.  
+
+#  
+- Signaling the exact time of 12:00 (noon or midnight)  
+- Representing punctuality or deadlines  
+- Highlighting the start or end of a 12-hour cycle

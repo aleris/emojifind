@@ -1,0 +1,7 @@
+A retro-style input device with a rotating ball for cursor control, often found in older computer setups. Offers precise movement without requiring much desk space.  
+
+#  
+- Navigating computer interfaces with precision  
+- Gaming, especially in setups where space is limited  
+- Graphic design and CAD work for detailed control  
+- Accessibility for users with limited hand mobility

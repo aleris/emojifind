@@ -1,0 +1,8 @@
+A vertical double-headed arrow pointing both upwards and downwards, symbolizing bidirectional movement or adjustment. Often represents options to increase or decrease, toggle between states, or indicate vertical directionality.  
+
+#  
+- Adjusting volume, brightness, or other settings in a range  
+- Indicating vertical scrolling or movement in interfaces  
+- Showing bidirectional or reversible actions  
+- Representing a toggle between two opposing states (e.g., expand/collapse)  
+- Highlighting options to move items up or down in a list

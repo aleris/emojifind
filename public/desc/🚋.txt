@@ -1,0 +1,6 @@
+A sleek, rail-bound vehicle designed for urban transit, often seen gliding along city streets. It provides a smooth and efficient way to navigate crowded areas.  
+
+#  
+- Public transportation in urban areas  
+- Moving passengers along fixed routes with frequent stops  
+- Reducing traffic congestion in city centers

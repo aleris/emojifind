@@ -1,0 +1,6 @@
+A tall, vertical signal with three colored lights—red, yellow, and green—used to control the flow of vehicles at intersections. Helps drivers know when to stop, proceed with caution, or go.  
+
+#  
+- Regulating vehicle movement at road intersections  
+- Indicating when to stop, slow down, or drive ahead  
+- Managing traffic flow in urban areas

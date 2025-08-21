@@ -1,0 +1,7 @@
+A symbol indicating downward direction or movement. Often represents lowering, decreasing, or scrolling down.  
+
+#  
+- Showing a decrease in value or position  
+- Indicating the direction to scroll or move downward  
+- Pointing to something below or underneath  
+- Signaling a download or saving action

@@ -1,0 +1,5 @@
+A directional symbol pointing to the left, often indicating movement, navigation, or a previous action.  
+
+#  
+- Going back to a previous page or step  
+- Indicating a leftward direction in maps or interfaces

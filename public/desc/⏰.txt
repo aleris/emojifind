@@ -1,0 +1,6 @@
+A classic timekeeping device designed to wake you up or remind you of important moments. Its ticking hands and ringing bell symbolize punctuality and the passage of time.  
+
+#  
+- Setting morning alarms to wake up on time  
+- Tracking time for tasks or appointments  
+- Reminding about scheduled events or deadlines

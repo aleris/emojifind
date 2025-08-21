@@ -1,0 +1,6 @@
+A medical tool designed for injecting or withdrawing fluids, often associated with healthcare and treatments. Its sharp needle and precise mechanism make it essential for administering medications safely.  
+
+#  
+- Administering vaccines to prevent diseases  
+- Delivering medications directly into the bloodstream  
+- Drawing blood samples for medical testing

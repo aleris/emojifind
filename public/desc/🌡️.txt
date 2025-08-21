@@ -1,0 +1,6 @@
+A device that measures temperature, often featuring a narrow glass tube with a bulb at one end containing mercury or alcohol. It can indicate fever, weather conditions, or the heat of an object.  
+
+#  
+- Checking body temperature for signs of illness  
+- Monitoring room or outdoor weather conditions  
+- Measuring the temperature of food or liquids

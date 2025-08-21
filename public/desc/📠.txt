@@ -1,0 +1,7 @@
+A device that transmits scanned documents over telephone lines, often associated with older office technology. Known for its distinctive beeping sounds and paper rolls.  
+
+#  
+- Sending signed documents quickly over long distances  
+- Transmitting legal or medical records securely  
+- Receiving printed copies of important communications  
+- Archiving paper-based records electronically

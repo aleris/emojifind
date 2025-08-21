@@ -1,0 +1,6 @@
+A small circular button designed to reduce brightness, often found on electronic devices. Represents lowering light intensity or adjusting settings to a softer level.  
+
+#  
+- Decreasing screen brightness on smartphones or monitors  
+- Adjusting the dimness of lights in smart home systems  
+- Indicating low-light settings in photography or video recording

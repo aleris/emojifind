@@ -1,0 +1,6 @@
+A symbol representing numerical input or digits, often associated with data entry or mathematical calculations.  
+
+#  
+- Entering numerical values in forms or calculators  
+- Indicating numbered lists or sequences  
+- Representing PINs or passcodes

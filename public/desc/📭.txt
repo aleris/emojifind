@@ -1,0 +1,6 @@
+A mailbox with its flag down, indicating that mail has been collected or no outgoing mail is waiting. Often symbolizes an empty or inactive mailbox.  
+
+#  
+- Signaling that mail has been picked up or delivered  
+- Representing an empty or unused mailbox  
+- Indicating the completion of a task related to mail or messages

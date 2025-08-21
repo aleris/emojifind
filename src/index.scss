@@ -1,0 +1,81 @@
+:root {
+  /* Typography */
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Color scheme */
+  color-scheme: light dark;
+
+  /* Design tokens - dark defaults */
+  --color-bg: #242424;
+  --color-bg-soft: #333333;
+  --color-text: rgba(255, 255, 255, 0.87);
+  --color-text-muted: rgba(255, 255, 255, 0.7);
+  --color-text-dim: rgba(255, 255, 255, 0.6);
+
+  --color-border: rgba(255, 255, 255, 0.15);
+  --color-border-strong: #cccccc;
+
+  --chip-bg: rgba(255, 255, 255, 0.1);
+  --hover-bg-soft: rgba(255, 255, 255, 0.06);
+
+  --color-success: #00ff00;
+  --color-error: #f87171;
+
+  --color-accent: #3476b3;
+  --color-accent-border: #03294e;
+  --color-on-accent: #ffffff;
+
+  --color-link-hover: #747bff;
+  --color-button-bg: #f9f9f9;
+
+  /* Layout tokens */
+  --container-max-width: 75rem; /* 1200px */
+
+  /* Radius tokens */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-xl: 1rem;
+  --input-border-radius: var(--radius-md);
+
+  color: var(--color-text);
+  background-color: var(--color-bg);
+
+  /* Rendering */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+}
+
+#app {
+  width: 100%;
+}
+
+//@media (min-device-width: 1px) {
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: #ffffff;
+    --color-bg-soft: #f9faf9;
+    --color-text: #213547;
+    --color-text-muted: rgba(0, 0, 0, 0.6);
+    --color-text-dim: rgba(0, 0, 0, 0.55);
+
+    --color-border: rgba(0, 0, 0, 0.1);
+    --color-border-strong: #cccccc;
+
+    --chip-bg: #f3f4f6;
+    --hover-bg-soft: #f9fafb;
+
+    --color-error: #dc2626;
+  }
+  a:hover { color: var(--color-link-hover); }
+  button { background-color: var(--color-button-bg); }
+}

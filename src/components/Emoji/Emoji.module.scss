@@ -1,0 +1,17 @@
+.Emoji {
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: var(--radius-sm);
+  position: relative;
+
+  .icon {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+
+  &:hover {
+    background-color: var(--color-accent);
+    border-color: var(--color-accent-border);
+    color: var(--color-on-accent);
+  }
+}

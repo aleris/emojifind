@@ -1,0 +1,6 @@
+A solid black square with sharp edges, often representing a button or a simple geometric shape. It conveys a sense of minimalism and structure, commonly used in design and digital interfaces.  
+
+#  
+- Symbolizing a clickable button in user interfaces  
+- Representing a placeholder or empty space in design layouts  
+- Indicating a checkbox or selection option in forms

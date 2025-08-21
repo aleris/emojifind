@@ -1,0 +1,40 @@
+.SearchBox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  justify-items: center;
+  justify-content: flex-end;
+
+  .options {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: flex-end;
+    align-items: center;
+
+    .label {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+    }
+
+    select {
+      padding: 0.25rem;
+      border: 1px solid var(--color-border-strong);
+      background-color: var(--color-bg);
+      color: var(--color-text);
+      border-radius: var(--radius-sm);
+      font-size: 1rem;
+    }
+
+    .skinToneSelect {
+
+    }
+
+    .codeFormatSelect {
+
+    }
+  }
+}

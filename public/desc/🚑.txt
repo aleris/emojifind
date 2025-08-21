@@ -1,0 +1,6 @@
+A fast-moving emergency vehicle with flashing lights and sirens, designed to provide urgent medical care and transport patients to hospitals.  
+
+#  
+- Transporting injured or critically ill people to medical facilities  
+- Responding to accidents and medical emergencies  
+- Providing on-the-spot medical assistance

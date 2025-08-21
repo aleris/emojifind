@@ -1,0 +1,6 @@
+A button that takes you back to the beginning of the previous track or section. Often found in media players to navigate content in reverse order.  
+
+#  
+- Skipping to the start of the last song in a playlist  
+- Rewinding to the previous chapter in a video or audiobook  
+- Restarting the previous segment in a podcast or streaming content

@@ -1,0 +1,6 @@
+A mechanical platform designed to move people or goods vertically between floors in a building. Often found in multi-story structures to provide convenient and accessible transportation.  
+
+#  
+- Transporting passengers between different levels of a building  
+- Moving heavy or bulky items between floors  
+- Ensuring accessibility for individuals with mobility challenges

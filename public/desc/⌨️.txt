@@ -1,0 +1,8 @@
+A device with an array of buttons or keys used to input characters and commands. Essential for typing, coding, and controlling computers or other electronic devices.  
+
+#  
+- Typing text on computers or smartphones  
+- Programming and coding software  
+- Gaming with customizable key bindings  
+- Controlling shortcuts and functions in applications  
+- Entering data into systems or forms

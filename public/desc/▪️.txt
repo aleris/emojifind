@@ -1,0 +1,8 @@
+A tiny, solid black shape, often used to create structure or separation in design. Its simplicity makes it versatile for both aesthetic and functional purposes.  
+
+#  
+- Creating visual dividers in text or graphics  
+- Representing pixels or small elements in digital art  
+- Adding minimalist decoration to layouts  
+- Marking items in lists or bullet points  
+- Symbolizing a checkbox or placeholder in forms

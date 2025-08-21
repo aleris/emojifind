@@ -1,0 +1,7 @@
+A symbol indicating the silencing or disabling of notifications, often representing a muted or inactive state. It conveys the idea of turning off sounds or alerts, suggesting a preference for quiet or undisturbed moments.  
+
+#  
+- Muting notifications on a device or app  
+- Signifying a "do not disturb" mode  
+- Representing the absence of sound or alerts  
+- Indicating a setting where alarms or bells are turned off

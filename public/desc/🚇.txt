@@ -1,0 +1,6 @@
+A fast and efficient underground train system that helps people navigate busy cities. Often found in urban areas, it provides a convenient way to avoid traffic and travel quickly between destinations.  
+
+#  
+- Commuting to work or school in large cities  
+- Exploring a city's attractions without dealing with road congestion  
+- Traveling between different neighborhoods or districts efficiently

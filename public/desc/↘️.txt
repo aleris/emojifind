@@ -1,0 +1,6 @@
+A diagonal arrow pointing downward and to the right, often indicating direction, movement, or a downward trend.  
+
+#  
+- Showing a downward or rightward movement in diagrams or maps  
+- Indicating a decline or decrease in data or trends  
+- Highlighting a swipe or drag gesture in user interfaces

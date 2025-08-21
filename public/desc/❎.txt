@@ -1,0 +1,8 @@
+A bold, square-shaped symbol often representing cancellation or denial. It conveys a clear message of rejection or incorrectness, commonly seen in interfaces to dismiss or negate actions.  
+
+#  
+- Indicating an incorrect answer or error  
+- Closing or dismissing pop-ups or notifications  
+- Canceling or stopping an action or process  
+- Marking items as unavailable or invalid  
+- Representing multiplication in mathematical contexts

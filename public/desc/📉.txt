@@ -1,0 +1,6 @@
+A downward-sloping line graph indicating a decline or negative trend in data. Often represents falling values, losses, or decreasing performance.  
+
+#  
+- Showing a drop in stock prices or financial performance  
+- Highlighting a decline in sales, productivity, or other metrics  
+- Representing negative trends in statistics or reports

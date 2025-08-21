@@ -1,0 +1,6 @@
+A symbol indicating a temporary halt or break in activity. Often represents stopping momentarily with the intention to resume later.  
+
+#  
+- Pausing music or video playback  
+- Temporarily stopping a game or workout  
+- Indicating a break in a process or conversation

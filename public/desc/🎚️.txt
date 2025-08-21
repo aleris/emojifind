@@ -1,0 +1,7 @@
+A control knob or slider that adjusts levels, such as volume, brightness, or intensity. Often found on audio equipment or digital interfaces to fine-tune settings.  
+
+#  
+- Adjusting volume or sound balance on audio devices  
+- Controlling brightness or contrast in display settings  
+- Modifying intensity levels in editing software  
+- Setting parameters in mixing consoles or DJ equipment

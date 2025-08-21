@@ -1,0 +1,6 @@
+A symbol representing the action of receiving or downloading items, often associated with email or digital files. It signifies incoming messages, documents, or data being stored or collected.  
+
+#  
+- Receiving emails or messages in an inbox  
+- Downloading files or data to a device  
+- Indicating the storage of incoming items in a digital tray

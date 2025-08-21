@@ -1,0 +1,6 @@
+A clean, minimalist square with a white fill and a thin outline, often representing a blank or neutral option. It conveys simplicity and structure, commonly used in design and digital interfaces.  
+
+#  
+- Indicating a selectable button or checkbox in user interfaces  
+- Representing blank spaces or placeholders in graphic design  
+- Symbolizing neutrality or emptiness in visual communication

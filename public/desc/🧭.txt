@@ -1,0 +1,6 @@
+A tool for finding direction, guiding travelers through uncharted terrain with its magnetic needle pointing north. Essential for explorers and adventurers to stay on course.  
+
+#  
+- Navigating through wilderness or unfamiliar areas  
+- Orienteering and outdoor sports  
+- Determining cardinal directions for hiking or sailing

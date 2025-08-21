@@ -1,0 +1,8 @@
+A square button with the letters "CL" in bold, often displayed in a bright color against a contrasting background. It typically signifies a clear or close function in digital interfaces.  
+
+#  
+- Clearing input fields or selections in apps or forms  
+- Closing pop-up windows or dialog boxes  
+- Representing the "Clear" command in user interfaces  
+- Indicating a cancel or reset option in menus  
+- Labeling a button for closing or clearing chat messages

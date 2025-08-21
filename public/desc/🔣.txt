@@ -1,0 +1,6 @@
+A collection of miscellaneous symbols often found on keyboards or used in digital input. These include special characters, punctuation marks, and other typographic elements.  
+
+#  
+- Representing special characters like ampersands (&), percent signs (%), and musical notes (♪)  
+- Indicating input fields or text formatting options in digital interfaces  
+- Displaying postal codes or other symbolic notations (e.g., 〒 for Japanese postal marks)

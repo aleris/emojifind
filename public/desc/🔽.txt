@@ -1,0 +1,6 @@
+A small, red arrow pointing downward, often found on buttons or interfaces. Symbolizes direction, movement, or a decrease in value.  
+
+#  
+- Indicating a downward scroll or navigation  
+- Showing a decrease in settings like volume or brightness  
+- Representing a download option in digital interfaces

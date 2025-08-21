@@ -1,0 +1,8 @@
+A symbol indicating correctness, approval, or completion. Often associated with success and validation.  
+
+#  
+- Confirming the completion of a task  
+- Marking correct answers or choices  
+- Signifying approval or agreement  
+- Verifying attendance or checklists  
+- Highlighting successful actions or steps

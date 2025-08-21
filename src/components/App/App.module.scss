@@ -1,0 +1,31 @@
+.App {
+  padding: 0 2rem;
+  margin: 0 auto;
+  max-width: var(--container-max-width);
+
+  .header {
+    position: sticky;
+    top: 0;
+    background-color: var(--color-bg);
+    z-index: 100;
+
+    .title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 0.5rem 0 0 0;
+      padding: 0 0 1rem 0;
+    }
+
+    .searchBox {
+
+    }
+  }
+
+  .main {
+    padding-top: 1rem;
+
+    .icons {
+
+    }
+  }
+}

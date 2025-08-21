@@ -1,0 +1,6 @@
+Indicates that walking or entering the area is not allowed. Often seen in restricted zones or hazardous locations.  
+
+#  
+- Signifying areas where foot traffic is prohibited  
+- Marking construction sites or dangerous zones  
+- Warning against trespassing in private or restricted spaces

@@ -1,0 +1,6 @@
+A series of ascending bars indicating signal strength, often seen on mobile devices. Represents connectivity and network reception quality.  
+
+#  
+- Showing cellular or Wi-Fi signal strength  
+- Indicating network availability or quality  
+- Representing communication or connectivity in digital interfaces

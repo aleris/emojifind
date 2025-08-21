@@ -1,0 +1,41 @@
+.Groups {
+  margin-top: -1rem;
+  .group {
+    .groupName {
+      margin: 1rem 0 0 0;
+      padding: 0;
+      font-size: 1.2rem;
+      color: var(--color-text-muted);
+      position: sticky;
+      z-index: 95;
+      top: 5.5rem;
+      background-color: var(--color-bg);
+    }
+
+    .groupContent {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+  }
+
+  .subgroup {
+    .subgroupName {
+      margin: 0.5rem 0 0 0;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--color-text-dim);
+      position: sticky;
+      z-index: 90;
+      top: 7rem;
+      background-color: var(--color-bg);
+    }
+
+    .subgroupContent {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: 1rem;
+      line-height: 2rem;
+    }
+  }
+}

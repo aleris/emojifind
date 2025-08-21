@@ -1,0 +1,8 @@
+A square button featuring the Japanese katakana symbol for "here," often used to indicate location or presence. It has a vibrant orange background with white text, making it stand out.  
+
+#  
+- Marking a specific location on maps or signs  
+- Highlighting the current position in navigation apps  
+- Indicating a meeting point or gathering spot  
+- Labeling a "start here" button in instructional materials  
+- Signifying availability or presence in digital interfaces

@@ -1,0 +1,66 @@
+.Tooltip {
+  pointer-events: none;
+  position: absolute;
+  z-index: 1000;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-align: center;
+  background-color: var(--color-bg);
+  box-shadow: var(--color-text-dim) 0 0.25rem 0.5rem rgba(0, 0, 0, 0.5);
+
+  .title {
+    white-space: nowrap;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+  }
+
+  .actions {
+    display: flex;
+    gap: 1rem;
+    border-top: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-border);
+    padding: 0 1rem;
+    font-size: 0.6rem;
+    line-height: 0.6rem;
+
+    .copy {
+      display: flex;
+      flex: 1;
+      align-items: center;
+      justify-content: center;
+      border-right: 1px solid var(--color-border);
+      padding: 0.5rem 0;
+
+      .copied {
+        color: var(--color-success);
+        font-weight: 600;
+      }
+
+      svg {
+        width: 0.6rem;
+        height: 0.6rem;
+        margin-right: 0.25rem;
+        vertical-align: bottom;
+      }
+    }
+
+    .details {
+      flex: 1;
+      align-items: center;
+      padding: 0.5rem 0;
+    }
+  }
+
+  .description {
+    padding: 0 1rem;
+    text-align: start;
+    max-width: 20rem;
+    line-height: 1.25;
+
+    p {
+      margin: 0.5rem 0;
+    }
+  }
+}

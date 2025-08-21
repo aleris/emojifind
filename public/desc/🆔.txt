@@ -1,0 +1,6 @@
+A square button with the letters "ID" in bold, typically representing identification or identity verification.  
+
+#  
+- Verifying personal identity in digital or physical forms  
+- Accessing secure systems or services requiring authentication  
+- Displaying identification details on profiles or documents

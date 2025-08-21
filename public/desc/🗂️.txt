@@ -1,0 +1,6 @@
+A set of tabbed dividers designed to organize and separate sections within a filing system. Ideal for categorizing documents or notes for easy retrieval.  
+
+#  
+- Sorting and labeling files in a physical or digital archive  
+- Organizing study materials or project notes by topic  
+- Structuring business reports or client records for quick reference

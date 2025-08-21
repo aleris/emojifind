@@ -1,0 +1,6 @@
+A visual representation of data using rectangular bars of varying lengths to compare different categories or values. Often used to display trends, comparisons, or statistical information in a clear and organized way.  
+
+#  
+- Comparing quantities across different categories  
+- Tracking changes in data over time  
+- Presenting statistical findings in reports or presentations

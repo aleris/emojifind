@@ -1,0 +1,8 @@
+A small square box with a checkmark inside, indicating completion, approval, or selection. Often represents a task done or an option chosen.  
+
+#  
+- Marking completed tasks in to-do lists  
+- Confirming selections in forms or surveys  
+- Signifying approval or verification  
+- Highlighting correct answers or choices  
+- Tracking progress in checklists or workflows

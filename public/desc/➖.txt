@@ -1,0 +1,8 @@
+A symbol representing subtraction or removal, often used in mathematical equations or to indicate a negative value. It can also signify a decrease or reduction in various contexts.  
+
+#  
+- Denoting subtraction in arithmetic operations  
+- Indicating negative numbers or values  
+- Showing a decrease or reduction in quantity  
+- Marking the removal of items or options  
+- Separating elements in lists or sequences

@@ -1,0 +1,8 @@
+A sleek and ergonomic device designed for precise cursor control on a computer screen. Often features buttons and a scroll wheel for seamless navigation.  
+
+#  
+- Navigating and interacting with graphical user interfaces  
+- Selecting, dragging, and dropping files or text  
+- Gaming with precise movement and quick clicks  
+- Scrolling through documents or web pages  
+- Executing commands with customizable buttons

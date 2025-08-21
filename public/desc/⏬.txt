@@ -1,0 +1,8 @@
+A downward-pointing arrow often indicating quick descent or rapid movement in a downward direction. Commonly seen in interfaces to signify scrolling down or decreasing values.  
+
+#  
+- Scrolling down quickly on a webpage or app  
+- Lowering volume, brightness, or other adjustable settings  
+- Downloading files or data  
+- Moving to the next item in a list or menu  
+- Decreasing speed or intensity in games or controls

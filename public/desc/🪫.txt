@@ -1,0 +1,6 @@
+A symbol indicating a nearly depleted power source, often seen on electronic devices when energy levels are critically low. It conveys the need for recharging or replacement to restore functionality.  
+
+#  
+- Signaling that a device's battery is running out of power  
+- Warning users to recharge their electronics soon  
+- Representing exhaustion or low energy in a metaphorical context

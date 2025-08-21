@@ -1,0 +1,6 @@
+A symbol indicating water that is unsafe for drinking, often found in public areas or on containers. Warns against consumption due to potential contamination or hazards.  
+
+#  
+- Marking water sources that are not safe for human consumption  
+- Labeling industrial or cleaning water to prevent accidental drinking  
+- Signifying restricted water use in public spaces like parks or construction sites

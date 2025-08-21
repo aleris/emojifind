@@ -1,0 +1,6 @@
+A symbol representing the action of removing or expelling something, often associated with ejecting media or exiting a mode.  
+
+#  
+- Ejecting discs or tapes from electronic devices  
+- Removing virtual items or elements in software interfaces  
+- Signifying an exit or removal option in user interfaces

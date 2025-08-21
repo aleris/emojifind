@@ -1,0 +1,5 @@
+A setting that causes a device to silently alert the user through subtle shaking instead of ringing. Often activated to avoid disruptions in quiet environments.  
+
+#  
+- Silencing phone calls while still receiving notifications  
+- Maintaining discretion in meetings or public spaces

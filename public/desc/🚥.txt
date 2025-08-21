@@ -1,0 +1,6 @@
+A three-colored signal mounted horizontally, often seen at intersections to regulate vehicle and pedestrian movement. Its red, yellow, and green lights guide drivers when to stop, slow down, or proceed.  
+
+#  
+- Controlling the flow of traffic at road intersections  
+- Indicating when it's safe for pedestrians to cross the street  
+- Managing vehicle movement in urban areas

@@ -1,0 +1,6 @@
+A large vehicle designed for public transportation, moving toward the viewer on the road. Often seen in urban areas, it carries passengers along set routes.  
+
+#  
+- Public transit systems in cities  
+- Representing bus travel or commuting  
+- Highlighting traffic or road conditions

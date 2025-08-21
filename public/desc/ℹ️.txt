@@ -1,0 +1,6 @@
+A symbol often found in interfaces to provide helpful details or guidance. Represents knowledge, assistance, or additional context.  
+
+#  
+- Indicating informational content or tips  
+- Highlighting help sections or FAQs  
+- Signaling details or explanations in apps or websites

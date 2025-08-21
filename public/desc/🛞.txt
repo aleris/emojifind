@@ -1,0 +1,6 @@
+A circular component that rotates to enable movement, often found on vehicles or machinery. Essential for steering, rolling, and supporting loads.  
+
+#  
+- Enabling cars and other vehicles to move smoothly  
+- Supporting and rotating heavy machinery or equipment  
+- Facilitating steering and direction control
